@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Dr. Christian Gische
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Christian
+last_name: Gische
 
 # Status emoji
 status:
@@ -14,21 +14,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PostDoc Researcher on Causal Inference
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: Humboldt-University zu Berlin (Alumnus)
+    
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include graph-based causal models, DAGs, and structrual equation modeling.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal Inference
+  - Graph-Based Causal Models
+  - Structural Equation Modeling
 
 # Education to show in About widget
 education:
