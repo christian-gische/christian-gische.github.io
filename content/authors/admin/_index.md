@@ -18,7 +18,7 @@ role: PostDoc Researcher on Causal Inference
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Humboldt-Universitaet zu Berlin (Alumnus)
+  - name: Humboldt-University zu Berlin (Alumnus)
     
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include graph-based causal models, DAGs, and structrual equation modeling.
@@ -32,15 +32,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Psychology
-      institution: Humboldt-Universitaet zu Berlin
-      year: 2021
-    - course: MSc in Statistics
-      institution: Humboldt-Universitaet zu Berlin
-      year: 2016
-    - course: Diplom in Economics
-      institution: Julius-Maximilians Universitaet of Wuerzburg
-      year: 2010
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,7 +52,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/CGische
+    link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
@@ -73,5 +73,5 @@ email: ''
 highlight_name: true
 ---
 
-Christian Gische is an independent postdoctoral researcher contributing to several third-party funded collaborative research projects. His research interests include causal inference, graph-based causal models and structural equation modeling. He currently develops causal inference tools for longitudinal data with unobserved heterogeneity.
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
