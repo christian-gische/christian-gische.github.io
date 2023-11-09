@@ -14,14 +14,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher on Causal Inference
+role: PostDoc Researcher on Causal Inference
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Humboldt-Universitaet zu Berlin (Alumnus)
     
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causal inference, graph-based causal models, and structrual equation modeling.
+bio: My research interests include graph-based causal models, DAGs, and structrual equation modeling.
 
 # Interests to show in About widget
 interests:
