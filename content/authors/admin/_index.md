@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PostDoc Researcher on Causal Inference
+role: Researcher on Causal Inference
 
 # Organizations/Affiliations to show in About widget
 organizations:
