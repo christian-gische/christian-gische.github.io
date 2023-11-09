@@ -18,28 +18,28 @@ role: Postdoctoral Researcher on Causal Inference
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Humboldt-Universitaet zu Berlin (Alumnus)
+  - name: Humboldt Universitaet zu Berlin (Alumnus)
     
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causal inference, graph-based causal models, and structrual equation modeling.
+bio: My research interests include causal inference, graphbased causal models, and structrual equation modeling.
 
 # Interests to show in About widget
 interests:
-  - Causal Inference
-  - Graph-Based Causal Models
-  - Structural Equation Modeling
+  Causal Inference
+  Graph Based Causal Models
+  Structural Equation Modeling
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Psychology
-      institution: Humboldt-Universitaet zu Berlin
+      institution: Humboldt Universitaet zu Berlin
       year: 2021
     - course: MSc in Statistics
-      institution: Humboldt-Universitaet zu Berlin
+      institution: Humboldt Universitaet zu Berlin
       year: 2016
     - course: Diplom in Economics
-      institution: Julius-Maximilians Universitaet of Wuerzburg
+      institution: Julius Maximilians Universitaet of Wuerzburg
       year: 2010
 
 # Social/Academic Networking
@@ -73,5 +73,5 @@ email: ''
 highlight_name: true
 ---
 
-Christian Gische is an independent postdoctoral researcher contributing to several third-party funded collaborative research projects. His research interests include causal inference, graph-based causal models and structural equation modeling. He currently develops causal inference tools for longitudinal data with unobserved heterogeneity.
+Christian Gische is an independent postdoctoral researcher contributing to several thirdparty funded collaborative research projects. His research interests include causal inference, graphbased causal models and structural equation modeling. He currently develops causal inference tools for longitudinal data with unobserved heterogeneity.
 {style="text-align: justify;"}
