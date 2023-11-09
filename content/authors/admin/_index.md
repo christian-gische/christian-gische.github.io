@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Christian Gische is an independent postdoctoral researcher contributing to several third-party funded collaborative research projects. His research interests include causal inference, graph-based causal models and structural equation modeling. He currently develops causal inference tools for longitudinal data with unobserved heterogeneity.
 {style="text-align: justify;"}
