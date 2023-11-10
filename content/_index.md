@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Christian Gische
 date: 2022-10-24
 type: landing
 
@@ -14,11 +14,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
+       filters:
         folders:
           - publication
         exclude_featured: true
