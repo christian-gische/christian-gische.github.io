@@ -14,8 +14,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-       filters:
-        folders:
+      folders:
           - publication
         exclude_featured: true
     design:
